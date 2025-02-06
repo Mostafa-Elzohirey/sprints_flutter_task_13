@@ -16,3 +16,8 @@ the clear images button sets the images clears the images list
 
 ## permissions used:
 access to photos and videos from external storage
+
+
+###  Packages used:
+[image_picker](https://pub.dev/packages/image_picker)
+
